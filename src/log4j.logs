@@ -1,0 +1,3 @@
+23/03/2020 23:27:40 DEBUG TestLog4j - This is a Debug Log
+23/03/2020 23:27:40 INFO  TestLog4j - This is a Info Log
+23/03/2020 23:27:40 ERROR TestLog4j - Error in a project
